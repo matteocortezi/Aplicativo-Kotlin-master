@@ -4,7 +4,7 @@ Este repositório contém um aplicativo Android e uma API desenvolvidos em Kotli
 
 ## Estrutura do Projeto
 
-- **App/** - Código-fonte do aplicativo Android.
+- **Aplicativo/** - Código-fonte do aplicativo Android.
 - **API/** - Código-fonte da API.
 
 ## Como Executar
