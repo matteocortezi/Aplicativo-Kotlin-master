@@ -1,6 +1,13 @@
-# Projeto Kotlin
+# Projeto Kotlin Golden Data
 
 Este repositório contém um aplicativo Android e uma API desenvolvidos em Kotlin.
+
+### Integrantes do Grupo 
+- **rm551692** Mateus Vinicius da Conceição Silva (2TDSPV)
+- **rm99774** Gabriel Previ de Oliveira (2TDSPV)
+- **rm97850** Gustavo Soares Fosaluza (2TDSPF)
+- **552000** Pedro Henrique Figueiredo de Oliveira (2TDSPV)
+- **rm550871** Vitor da Silva Ruas (2TDSPV)
 
 ## Estrutura do Projeto
 
