@@ -34,3 +34,6 @@ Este repositório contém um aplicativo Android e uma API desenvolvidos em Kotli
 2.Abra a pasta no Android Studio.
 
 3.Execute o app.
+
+login:Admin
+senha:123456
